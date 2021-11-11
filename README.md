@@ -4,7 +4,7 @@
 
 There are five main paths:  Business, Client, Server, Database, **Development**
 
-![](C:\Github\Get_Microsoft_Certification\microsoft-certificate-developer.jpg)
+![](https://github.com/sajadbz/Microsoft_Certification/blob/master/microsoft-certificate-developer.jpg)
 
 ### Development 
 
@@ -40,7 +40,7 @@ There are five main paths:  Business, Client, Server, Database, **Development**
 
 At first, go [Browse Certifications and Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/) then search for exam code on the search box, for example:
 
-![search-for-certificate](C:\Github\Get_Microsoft_Certification\search-for-certificate.jpg)
+![search-for-certificate](https://github.com/sajadbz/Microsoft_Certification/blob/master/search-for-certificate.jpg)
 
 
 
